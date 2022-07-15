@@ -22,15 +22,18 @@
 
 ## GitHub Stats
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=bastienrc&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=10px&border_color=30363d"
-  width="100%"
-  style="margin:10px 0"
-/>
+<div>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=bastienrc&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=10px&border_color=30363d"
+    width="45%"
+  />
+</div>
 
-<img
-  align="right"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienrc&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=10px&border_color=30363d"
-  width="100%"
-/>
+<div>
+  <img
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienrc&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=10px&border_color=30363d"
+    width="45%"
+  />
+</div>
