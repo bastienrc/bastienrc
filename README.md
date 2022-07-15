@@ -26,7 +26,7 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=bastienrc&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=10px&border_color=30363d"
-    width="45%"
+    width="50%"
   />
 </div>
 
@@ -34,6 +34,6 @@
   <img
     align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienrc&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=10px&border_color=30363d"
-    width="45%"
+    width="40%"
   />
 </div>
