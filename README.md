@@ -30,7 +30,7 @@
 
 ### 🖥️ Operating Systems
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-
+<!-- 
 ## GitHub Stats
 <div>
   <img
@@ -45,4 +45,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastienrc&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=10px&border_color=30363d"
     width="40%"
   />
-</div>
+</div> -->
